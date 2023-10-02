@@ -32,6 +32,8 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 <hr>
 
 <h2 align="left">🗝️Languages,Tools and Technology:</h2>
+<img align="right" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
 <table>
 <tr>
 	<td><strong>Frontend & Design</strong></td>
@@ -68,14 +70,12 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 	<tr>
 		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=matrix&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
-	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=merko&combine_all_yearly_contributions=true"></a>	</td>
-	</tr>
 </table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshavshetty&theme=merko&hide_border=true&custom_title=⭐Varsha⭐" width="100%">
 
 <div align="center">
-  
+  <hr>
+	
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
