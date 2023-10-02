@@ -56,20 +56,47 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 </table>
 
 ## 📏Metrics
+![](https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966)
 <hr>
 <table>
 	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en"></a></td>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=matrix&show_icons=true&locale=en"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=matrix&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=matrix&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true"></a>	</td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=matrix&combine_all_yearly_contributions=true"></a>	</td>
 	</tr>
 </table>
+<img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
 
+<div align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
+</div>
 <hr>
 
 <div align = "center">
