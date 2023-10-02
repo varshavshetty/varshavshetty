@@ -1,13 +1,15 @@
-![github-header-image (8)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/935067ea-fbd7-415f-a919-955fa2d7be62)
+
+![github-header-image (9)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/38a29ec2-f541-442a-9392-d07aa4f72bee)
 
 
 # <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
-## 20 Year old,Passionate Frontend Developer From [SJEC](https://sjec.ac.in)
-#### I'm a 4th Year Computer Science and Engineering student with a strong passion for frontend web development.I've honed my skills in creating beautiful, user-friendly interfaces that seamlessly blend design and functionality. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the frontend world.
+## 20 Year old,Passionate Developer From [SJEC](https://sjec.ac.in)
+#### I'm a 4th Year Computer Science and Engineering student with a strong passion for Technology.I've honed my skills in seamlessly blend Stuffs,learning from challenges, and pushing the boundaries of what's possible. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the Tech world. 
 
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
-- 🚀 What I Do: I specialize in turning ideas into visually appealing and responsive web applications.
+- 🚀 What I Do: I love diving into emerging technologies, from AI and machine learning to WebDev and IoT. My GitHub is a canvas where I express my enthusiasm for these cutting-edge fields through projects and contributions.
+💡 Project Builder: Whether it's coding a new app, tinkering with hardware, or designing creative solutions, I enjoy bringing ideas to life and sharing them with the world.
 - ⚡ Fun fact **I am funny**
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 
