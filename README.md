@@ -1,4 +1,4 @@
-
+![](https://camo.githubusercontent.com/5fc2195155816a18fa871af648a1ff0b3e3511f6fed7936aa4de581e6b6b47e5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b266865696768743d33302673656374696f6e3d68656164657226726576657273616c3d66616c736526636f6c6f723d303a6235373964612c3130303a373964613766)
 ![github-header-image (9)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/38a29ec2-f541-442a-9392-d07aa4f72bee)
 
 
@@ -60,14 +60,14 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 <hr>
 <table>
 	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=matrix&show_icons=true&locale=en"></a></td>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=matrix&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=merko&show_icons=true&locale=en"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
 	</tr>
 	<tr>
 		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=matrix&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=matrix&combine_all_yearly_contributions=true"></a>	</td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=merko&combine_all_yearly_contributions=true"></a>	</td>
 	</tr>
 </table>
 <img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
