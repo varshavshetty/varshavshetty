@@ -72,7 +72,7 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=merko&combine_all_yearly_contributions=true"></a>	</td>
 	</tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshavshetty&theme=merko&hide_border=true&custom_title=Varsha" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshavshetty&theme=merko&hide_border=true&custom_title=⭐Varsha⭐" width="100%">
 
 <div align="center">
   
