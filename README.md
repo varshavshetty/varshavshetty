@@ -20,6 +20,7 @@
 I'm open to collaboration, internships, and opportunities to contribute to exciting frontend projects. Feel free to reach out to me!! <br> <br>
 <a href = "https://linkedin.com/in/varsha-v-shetty-596448241"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/varsha_v_shettyy/"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
+
 	
 <hr>
 
@@ -53,14 +54,14 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 <hr>
 <table>
 	<tr>
-		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en"></a></td>
-		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en"></a></td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://instagram.com/varshavshetty"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true"></a>	</td>
+		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true"></a>	</td>
 	</tr>
 </table>
 
