@@ -1,22 +1,59 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Varsha V Shetty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding: width="400" src="https://www.freepik.com/vectors/female-software-engineer">
+# <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
+## 20 Year old,Passionate Frontend Developer From [SJEC](https://sjec.ac.in)
+
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
-
 - ⚡ Fun fact **I am funny**
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varsha-v-shetty-596448241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha-v-shetty-596448241" height="30" width="40" /></a>
-<a href="https://instagram.com/varsha_v_shettyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varsha_v_shettyy" height="30" width="40" /></a>
-</p>
+<h3><b>Visitors Count 👁️</b></h3>
+<img width = 25% src = "https://profile-counter.glitch.me/{varshavshetty}/count.svg">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshavshetty&show_icons=true&locale=en&layout=compact" alt="varshavshetty" /></p>
+<h2 align="left">✉️ Connect with me:</h2>
+Don't hesitate to ping me🤝.I'm always open for a conversation!!✔ <br> <br>
+<a href = "https://linkedin.com/in/varsha-v-shetty-596448241"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
+<a href = "https://instagram.com/varsha_v_shettyy/"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
+	
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshavshetty&show_icons=true&locale=en" alt="varshavshetty" /></p>
+<h2 align="left">🗝️Languages,Tools and Technology:</h2>
+<table>
+<tr>
+	<td><strong>Frontend & Design</strong></td>
+	<td><strong>Version Control</strong></td>
+	<td><strong>Editors</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=vscode,vim&theme=dark"></td>
+</tr>
+</table>
+<table>
+<tr>
+	<td><strong>Backend & Databases</strong></td>
+	<td><strong>Languages</strong></td>
+	<td><strong>Miscellaneous</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=flask,mysql&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=md,arduino,linux&theme=dark"></td>
+</tr>
+</table>
+
+## 📏Metrics
+<hr>
+
+
+![](https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
