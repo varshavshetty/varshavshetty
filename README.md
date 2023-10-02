@@ -1,9 +1,13 @@
+![github-header-image (8)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/935067ea-fbd7-415f-a919-955fa2d7be62)
+
 
 # <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
 ## 20 Year old,Passionate Frontend Developer From [SJEC](https://sjec.ac.in)
+#### I'm a 4th Year Computer Science and Engineering student with a strong passion for frontend web development.I've honed my skills in creating beautiful, user-friendly interfaces that seamlessly blend design and functionality. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the frontend world.
 
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
+- 🚀 What I Do: I specialize in turning ideas into visually appealing and responsive web applications.
 - ⚡ Fun fact **I am funny**
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 
@@ -13,7 +17,7 @@
 <hr>
 
 <h2 align="left">✉️ Connect with me:</h2>
-Don't hesitate to ping me🤝.I'm always open for a conversation!!✔ <br> <br>
+I'm open to collaboration, internships, and opportunities to contribute to exciting frontend projects. Feel free to reach out to me!! <br> <br>
 <a href = "https://linkedin.com/in/varsha-v-shetty-596448241"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/varsha_v_shettyy/"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 	
@@ -47,13 +51,24 @@ Don't hesitate to ping me🤝.I'm always open for a conversation!!✔ <br> <br>
 
 ## 📏Metrics
 <hr>
+<table>
+	<tr>
+		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en"></a></td>
+		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+	</tr>
+	<tr>
+		<td colspan = "2"><a href="https://instagram.com/varshavshetty"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://linkedin.com/in/varshavshetty"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true"></a>	</td>
+	</tr>
+</table>
 
+<hr>
 
-![](https://github-readme-stats.vercel.app/api?username=varshavshetty&theme=radical&show_icons=true&locale=en)
+<div align = "center">
+	<h3>Show some ❤️ by starring 🌟 some of my repos!</h3>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshavshetty&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=radical&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
