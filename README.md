@@ -2,9 +2,11 @@
 ![github-header-image (9)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/38a29ec2-f541-442a-9392-d07aa4f72bee)
 
 
-# <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
+
 ## 20 Year old,Passionate Developer From [SJEC](https://sjec.ac.in)
-#### I'm a 4th Year Computer Science and Engineering student with a strong passion for Technology.I've honed my skills in seamlessly blend Stuffs,learning from challenges, and pushing the boundaries of what's possible. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the Tech world. 
+
+<h4> I'm a 4th Year Computer Science and Engineering student with a strong passion for Technology.I've honed my skills in seamlessly blend Stuffs,learning from challenges, and pushing the boundaries of what's possible. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the Tech world. </h4>
 
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
@@ -70,7 +72,7 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=merko&combine_all_yearly_contributions=true"></a>	</td>
 	</tr>
 </table>
-<img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshavshetty&theme=merko&hide_border=true&custom_title=Varsha" width="100%">
 
 <div align="center">
   
