@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
 - 🚀 What I Do: I love diving into emerging technologies, from AI and machine learning to WebDev and IoT. My GitHub is a canvas where I express my enthusiasm for these cutting-edge fields through projects and contributions.
-💡 Project Builder: Whether it's coding a new app, tinkering with hardware, or designing creative solutions, I enjoy bringing ideas to life and sharing them with the world.
+- 💡 Project Builder: Whether it's coding a new app, tinkering with hardware, or designing creative solutions, I enjoy bringing ideas to life and sharing them with the world.
 - ⚡ Fun fact **I am funny**
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 
