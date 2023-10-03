@@ -1,10 +1,13 @@
+
 ![](https://camo.githubusercontent.com/5fc2195155816a18fa871af648a1ff0b3e3511f6fed7936aa4de581e6b6b47e5/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b266865696768743d33302673656374696f6e3d68656164657226726576657273616c3d66616c736526636f6c6f723d303a6235373964612c3130303a373964613766)
 ![github-header-image (9)](https://github.com/kinderasteroid/varshavshetty/assets/84179566/38a29ec2-f541-442a-9392-d07aa4f72bee)
 
 
-# <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Hii!%2CI+am+Varsha" alt="Typing SVG" /></a>
+
 ## 20 Year old,Passionate Developer From [SJEC](https://sjec.ac.in)
-#### I'm a 4th Year Computer Science and Engineering student with a strong passion for Technology.I've honed my skills in seamlessly blend Stuffs,learning from challenges, and pushing the boundaries of what's possible. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the Tech world. 
+
+<h4> I'm a 4th Year Computer Science and Engineering student with a strong passion for Technology.I've honed my skills in seamlessly blend Stuffs,learning from challenges, and pushing the boundaries of what's possible. I'm always eager to learn and stay up-to-date with the latest trends and technologies in the Tech world. </h4>
 
 
 - 📫 How to reach me **varshavshetty09@gmail.com**
@@ -19,6 +22,7 @@
 ![](https://img.shields.io/badge/Documentation_Head-KinderNeutron-506365?style=for-the-badge&logo=pagekit&labelColor=FF1E0D)
 
 
+
 <hr>
 
 <h2 align="left">✉️ Connect with me:</h2>
@@ -29,19 +33,29 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 	
 <hr>
 
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/kinderasteroid/varshavshetty/assets/84179566/a6e4c8f7-f406-481b-a70f-8e45926eecd7)
+
+
+<hr>
+
 <h2 align="left">🗝️Languages,Tools and Technology:</h2>
+
+<br/>
 <table>
 <tr>
 	<td><strong>Frontend & Design</strong></td>
 	<td><strong>Version Control</strong></td>
 	<td><strong>Editors</strong></td>
 </tr>
+	<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=html,css,js" ></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=vscode,vim&theme=dark"></td>
 </tr>
+
 </table>
+
 <table>
 <tr>
 	<td><strong>Backend & Databases</strong></td>
@@ -66,14 +80,12 @@ I'm open to collaboration, internships, and opportunities to contribute to excit
 	<tr>
 		<td colspan = "2"><a href="https://instagram.com/varsha_v_shettyy"><img width=100% src="https://github-profile-trophy.vercel.app/?username=varshavshetty&theme=matrix&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
-	<tr>
-		<td><a href="https://linkedin.com/in/varsha-v-shetty-596448241/"><img src="https://github-contributor-stats.vercel.app/api?username=varshavshetty&limit=3&theme=merko&combine_all_yearly_contributions=true"></a>	</td>
-	</tr>
 </table>
-<img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshavshetty&theme=merko&hide_border=true&custom_title=⭐Varsha⭐" width="100%">
 
 <div align="center">
-  
+  <hr>
+	
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
